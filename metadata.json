@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Camera Exposure Simulator",
+  "description": "Interactive photography exposure triangle simulator with real-time depth of field, motion blur, sensor noise, light metering, and camera controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
